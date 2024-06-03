@@ -1,3 +1,3 @@
 # Lab 9 - Starter
 
-[published page]()
+[published page](https://azathotha.github.io/Lab9_Starter/)
